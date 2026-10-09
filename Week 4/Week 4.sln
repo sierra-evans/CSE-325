@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ASP.NET Core", "ASP.NET Core", "{850930F4-164C-DA19-8C79-733919B05BC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcMovie", "ASP.NET Core\MvcMovie\MvcMovie.csproj", "{D51D6CC0-1D32-2E2F-4923-D6680CA37501}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D51D6CC0-1D32-2E2F-4923-D6680CA37501}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D51D6CC0-1D32-2E2F-4923-D6680CA37501}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D51D6CC0-1D32-2E2F-4923-D6680CA37501}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D51D6CC0-1D32-2E2F-4923-D6680CA37501}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D51D6CC0-1D32-2E2F-4923-D6680CA37501} = {850930F4-164C-DA19-8C79-733919B05BC7}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D82B0B8-053B-411C-BE58-DC3CF775E7C1}
+	EndGlobalSection
+EndGlobal
