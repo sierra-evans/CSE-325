@@ -22,7 +22,6 @@
 /Users/sierraevans/Documents/CSE325/Week 4/ASP.NET Core/MvcMovie/obj/Debug/net10.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
 /Users/sierraevans/Documents/CSE325/Week 4/ASP.NET Core/MvcMovie/obj/Debug/net10.0/scopedcss/bundle/MvcMovie.styles.css
 /Users/sierraevans/Documents/CSE325/Week 4/ASP.NET Core/MvcMovie/obj/Debug/net10.0/scopedcss/projectbundle/MvcMovie.bundle.scp.css
-/Users/sierraevans/Documents/CSE325/Week 4/ASP.NET Core/MvcMovie/obj/Debug/net10.0/compressed/8151r5ozgn-{0}-b9sayid5wm-b9sayid5wm.gz
 /Users/sierraevans/Documents/CSE325/Week 4/ASP.NET Core/MvcMovie/obj/Debug/net10.0/compressed/dqa1xiugtd-{0}-61n19gt1b8-61n19gt1b8.gz
 /Users/sierraevans/Documents/CSE325/Week 4/ASP.NET Core/MvcMovie/obj/Debug/net10.0/compressed/6clnpnw2tb-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
 /Users/sierraevans/Documents/CSE325/Week 4/ASP.NET Core/MvcMovie/obj/Debug/net10.0/compressed/gln79jq0fq-{0}-bqjiyaj88i-bqjiyaj88i.gz
@@ -371,3 +370,4 @@
 /Users/sierraevans/Documents/CSE325/Week 4/ASP.NET Core/MvcMovie/bin/Debug/net10.0/runtimes/win-x86/native/e_sqlite3.dll
 /Users/sierraevans/Documents/CSE325/Week 4/ASP.NET Core/MvcMovie/obj/Debug/net10.0/MvcMovie.csproj.AssemblyReference.cache
 /Users/sierraevans/Documents/CSE325/Week 4/ASP.NET Core/MvcMovie/obj/Debug/net10.0/MvcMovie.csproj.Up2Date
+/Users/sierraevans/Documents/CSE325/Week 4/ASP.NET Core/MvcMovie/obj/Debug/net10.0/compressed/8151r5ozgn-{0}-gj8ssieq3o-gj8ssieq3o.gz
