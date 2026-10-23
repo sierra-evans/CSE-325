@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ibHZskG/fMs=",
+  "success": true,
+  "projectFilePath": "/Users/sierraevans/Library/CloudStorage/OneDrive-BYU-Idaho/Fall 2026/CSE 325/Week 5/Build Web App with Blazor/BlazorApp/BlazorApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/sierraevans/.nuget/packages/microsoft.aspnetcore.app.internal.assets/10.0.12/microsoft.aspnetcore.app.internal.assets.10.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
