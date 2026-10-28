@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/sierraevans/Documents/CSE325/Week 7/Build Reusable Components/FirstClassLibrary/obj/Debug/net8.0/scopedcss/projectbundle/FirstClassLibrary.bundle.scp.css",
+      "PackagePath": "staticwebassets/FirstClassLibrary.kc85ukjw4q.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/sierraevans/Documents/CSE325/Week 7/Build Reusable Components/FirstClassLibrary/wwwroot/background.png",
+      "PackagePath": "staticwebassets/background.png"
+    },
+    {
+      "Id": "/Users/sierraevans/Documents/CSE325/Week 7/Build Reusable Components/FirstClassLibrary/wwwroot/exampleJsInterop.js",
+      "PackagePath": "staticwebassets/exampleJsInterop.js"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.FirstClassLibrary.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.FirstClassLibrary.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.FirstClassLibrary.props",
+      "PackagePath": "build\\FirstClassLibrary.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.FirstClassLibrary.props",
+      "PackagePath": "buildMultiTargeting\\FirstClassLibrary.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.FirstClassLibrary.props",
+      "PackagePath": "buildTransitive\\FirstClassLibrary.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
